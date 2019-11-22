@@ -9,6 +9,7 @@ object First {
     var subValue=sub(12,10)
     println("Substration Value of Two Numbers : "+subValue)
     
+    
     var variableName: Int =10 
     variableName=variableName+10;
     val valValue: Int = 20
